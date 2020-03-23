@@ -1,0 +1,5 @@
+* STARTERS *
+
+Read Mozilla HTML basics:   https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics
+... and CSS basics:         https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics
+...and 'Your First Form':   https://developer.mozilla.org/en-US/docs/Learn/Forms/Your_first_form
