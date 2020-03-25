@@ -58,18 +58,6 @@ const App = () => {
   const handlePoorClick = () => setPoor(poor + 1)
 
   return (
-    // <div>
-    //   <div>
-    //     {left}
-    //     <button onClick={() => setLeft(left + 1)}>
-    //       left
-    //     </button>
-    //     <button onClick={() => setRight(right + 1)}>
-    //       right
-    //     </button>
-    //     {right}
-    //   </div>
-    // </div>
 
     <div>
       <h1>Give feedback, please.</h1>
@@ -81,13 +69,7 @@ const App = () => {
 
       <h2>statistics</h2>
       <Statistics values={[good, neut, poor]}/>
-      {/* <div>
-        <p>Good: {good}</p>
-        <p>Neutral: {neut}</p>
-        <p>Bad: {poor}</p>
-        <p>All: {good + neut + poor}</p>
-      </div> */}
-  </div>
+    </div>
   )
 }
 
