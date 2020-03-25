@@ -1,0 +1,9 @@
+** Install **
+React Developer Tools plugin
+https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi
+
+npx create-react-app name
+
+cd name/src
+
+rm App.css App.js App.test.js logo.svg serviceWorker.js
